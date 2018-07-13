@@ -1,7 +1,6 @@
-package Amason;
+package AmasonGeekForGeek;
 import java.util.*;
 import java.lang.*;
-import java.io.*;
 
 /**
  * Created by yehuixiang on 7/10/18.

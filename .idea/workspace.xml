@@ -1,24 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/SortList.java" line="50" />
+    <bookmark url="file://$PROJECT_DIR$/src/others/SortList.java" line="52" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9498220c-6261-4661-8903-98add416362e" name="Default" comment="fibonacci">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AddTwoNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AddTwoNumbersII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Amason/HowManyX.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Amason/ReverseBit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CopyListwithRandomPointer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedListCycle1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MergeTwoSortedLists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RemoveNthNodeFromEndofList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ReverseLinkedListII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SortList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoStacksSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/a_pow_b.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reverseLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="9498220c-6261-4661-8903-98add416362e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/CountTotalSetBits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/FindPrimeNumbersInARange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/MaximumMoney.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/AddTwoNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BestTimetoBuyandSellStock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BestTimetoBuyandSellStockII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeLevelOrderTraversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeRightSideView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeVerticalOrderTraversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/CopyListWithRandomPointer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/LinkedList/AddTwoNumber.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/MergeSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/QuickSort.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/others/AddTwoNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/AddTwoNumbersII.java" afterPath="$PROJECT_DIR$/src/others/AddTwoNumbersII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Amason/HowManyX.java" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/HowManyX.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Amason/ReverseBit.java" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/ReverseBit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CopyListwithRandomPointer.java" afterPath="$PROJECT_DIR$/src/others/CopyListwithRandomPointer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Fibonacci.java" afterPath="$PROJECT_DIR$/src/others/Fibonacci.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LinkedListCycle1.java" afterPath="$PROJECT_DIR$/src/others/LinkedListCycle1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MergeSort.java" afterPath="$PROJECT_DIR$/src/others/MergeSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MergeTwoSortedLists.java" afterPath="$PROJECT_DIR$/src/others/MergeTwoSortedLists.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/QuickSort.java" afterPath="$PROJECT_DIR$/src/others/QuickSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveNthNodeFromEndofList.java" afterPath="$PROJECT_DIR$/src/others/RemoveNthNodeFromEndofList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ReverseLinkedListII.java" afterPath="$PROJECT_DIR$/src/others/ReverseLinkedListII.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SelectionSort.java" afterPath="$PROJECT_DIR$/src/others/SelectionSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SortList.java" afterPath="$PROJECT_DIR$/src/others/SortList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TwoStacksSort.java" afterPath="$PROJECT_DIR$/src/others/TwoStacksSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/a_pow_b.java" afterPath="$PROJECT_DIR$/src/others/a_pow_b.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/reverseLinkedList.java" afterPath="$PROJECT_DIR$/src/others/reverseLinkedList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Algorithm.iws" />
@@ -41,7 +57,21 @@
     <favorites_list name="Algorithm" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AddTwoNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AmasonLeetcode/LinkedList/AddTwoNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.4130926">
+              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding>
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,6 +116,18 @@
         <option value="$PROJECT_DIR$/src/ReverseLinkedListII.java" />
         <option value="$PROJECT_DIR$/src/Amason/HowManyX.java" />
         <option value="$PROJECT_DIR$/src/Amason/ReverseBit.java" />
+        <option value="$PROJECT_DIR$/src/Amason/FindPrimeNumbersInARange.java" />
+        <option value="$PROJECT_DIR$/src/Amason/MaximumMoney.java" />
+        <option value="$PROJECT_DIR$/src/Amason/CountTotalSetBits.java" />
+        <option value="$PROJECT_DIR$/src/AmasonLeetcode/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/AmasonLeetcode/BestTimetoBuyandSellStock.java" />
+        <option value="$PROJECT_DIR$/src/AmasonLeetcode/BestTimetoBuyandSellStockII.java" />
+        <option value="$PROJECT_DIR$/src/AmasonLeetcode/BestTimetoBuyandSellStockIII.java" />
+        <option value="$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeLevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeRightSideView.java" />
+        <option value="$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeVerticalOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/AmasonLeetcode/CopyListWithRandomPointer.java" />
+        <option value="$PROJECT_DIR$/src/AmasonLeetcode/LinkedList/AddTwoNumber.java" />
       </list>
     </option>
   </component>
@@ -95,6 +137,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="width" value="1280" />
     <option name="height" value="796" />
   </component>
@@ -158,6 +201,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmasonLeetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmasonLeetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AddTwoNumbers.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmasonLeetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinkedList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AddTwoNumber.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -171,6 +280,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -180,60 +290,15 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseBit">
-    <configuration default="false" name="RemoveNthNodeFromEndofList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="RemoveNthNodeFromEndofList" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="LinkedList.AddTwoNumbers" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="AddTwoNumbersII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="LinkedList.AddTwoNumbersII" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="HowManyX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.AddTwoNumber">
+    <configuration default="false" name="BestTimetoBuyandSellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Amason.*" />
+          <option name="PATTERN" value="AmasonLeetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Amason.HowManyX" />
+      <option name="MAIN_CLASS_NAME" value="AmasonLeetcode.BestTimetoBuyandSellStockII" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -246,14 +311,74 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ReverseBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="BinaryTreeLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Amason.*" />
+          <option name="PATTERN" value="AmasonLeetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Amason.ReverseBit" />
+      <option name="MAIN_CLASS_NAME" value="AmasonLeetcode.BinaryTreeLevelOrderTraversal" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryTreeRightSideView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="AmasonLeetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="AmasonLeetcode.BinaryTreeRightSideView" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CopyListwithRandomPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="AmasonLeetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="AmasonLeetcode.CopyListwithRandomPointer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AddTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="AmasonLeetcode.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="AmasonLeetcode.LinkedList.AddTwoNumber" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -689,19 +814,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RemoveNthNodeFromEndofList" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AddTwoNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AddTwoNumbersII" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HowManyX" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ReverseBit" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStockII" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeLevelOrderTraversal" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BinaryTreeRightSideView" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CopyListwithRandomPointer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AddTwoNumber" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReverseBit" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HowManyX" />
-        <item index="2" class="java.lang.String" itemvalue="Application.AddTwoNumbersII" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AddTwoNumbers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RemoveNthNodeFromEndofList" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AddTwoNumber" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CopyListwithRandomPointer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BinaryTreeRightSideView" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreeLevelOrderTraversal" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BestTimetoBuyandSellStockII" />
       </list>
     </recent_temporary>
   </component>
@@ -721,7 +846,7 @@
       <workItem from="1530253624558" duration="2248000" />
       <workItem from="1530294711990" duration="183000" />
       <workItem from="1530383817889" duration="68000" />
-      <workItem from="1530580736363" duration="19447000" />
+      <workItem from="1530580736363" duration="32358000" />
     </task>
     <task id="LOCAL-00001" summary="fibonacci">
       <created>1530223616747</created>
@@ -729,11 +854,17 @@
       <option name="project" value="LOCAL" />
       <updated>1530223616747</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="amson tag">
+      <created>1531224858646</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531224858646</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24261000" />
+    <option name="totallyTimeSpent" value="37172000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -745,8 +876,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="796" extended-state="0" />
-    <editor active="false" />
+    <frame x="-1" y="0" width="1280" height="796" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -755,12 +886,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.50647247" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.4935275" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.4935275" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -786,15 +917,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="fibonacci" />
+    <MESSAGE value="amson tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="amson tag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Amason/ReverseBit.java</url>
+          <url>file://$PROJECT_DIR$/src/AmasonGeekForGeek/ReverseBit.java</url>
           <line>29</line>
-          <properties class="Amason.ReverseBit" method="main" />
+          <properties class="AmasonGeekForGeek.ReverseBit" method="main" />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
@@ -807,7 +939,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TwoStacksSort.java">
+    <entry file="file://$PROJECT_DIR$/src/others/TwoStacksSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
@@ -817,7 +949,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/others/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -825,7 +957,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoStacksSort.java">
+    <entry file="file://$PROJECT_DIR$/src/others/TwoStacksSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -835,28 +967,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CopyListwithRandomPointer.java">
+    <entry file="file://$PROJECT_DIR$/src/others/CopyListwithRandomPointer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/others/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/others/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/others/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.2972972">
           <caret line="68" column="35" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
@@ -870,35 +1002,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/others/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8648649">
           <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/a_pow_b.java">
+    <entry file="file://$PROJECT_DIR$/src/others/a_pow_b.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31213018">
           <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearchAll.java">
+    <entry file="file://$PROJECT_DIR$/src/others/BinarySearchAll.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42159763">
           <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CopyListwithRandomPointer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6976401">
-          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/others/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5973451">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
@@ -906,7 +1031,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddTwoNumbersII.java">
+    <entry file="file://$PROJECT_DIR$/src/others/AddTwoNumbersII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3476298">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
@@ -914,15 +1039,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.383747">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoveNthNodeFromEndofList.java">
+    <entry file="file://$PROJECT_DIR$/src/others/RemoveNthNodeFromEndofList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.04288939">
           <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
@@ -930,7 +1047,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists.java">
+    <entry file="file://$PROJECT_DIR$/src/others/MergeTwoSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="74" selection-end-column="5" />
@@ -938,7 +1055,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortList.java">
+    <entry file="file://$PROJECT_DIR$/src/others/SortList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14221218">
           <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
@@ -946,7 +1063,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoStacksSort.java">
+    <entry file="file://$PROJECT_DIR$/src/others/TwoStacksSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4853273">
           <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
@@ -956,17 +1073,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reverseLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/others/reverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.496614">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedListCycle1.java">
+    <entry file="file://$PROJECT_DIR$/src/others/LinkedListCycle1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4040632">
           <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
@@ -974,15 +1091,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1422122">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII.java">
+    <entry file="file://$PROJECT_DIR$/src/others/ReverseLinkedListII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.84424376">
           <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
@@ -990,7 +1099,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Amason/HowManyX.java">
+    <entry file="file://$PROJECT_DIR$/src/AmasonGeekForGeek/HowManyX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
@@ -1005,8 +1114,8 @@
         <state vertical-scroll-proportion="2.3451777">
           <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="false" />
+            <element signature="e#1369#1370#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1016,16 +1125,137 @@
         <state vertical-scroll-proportion="-2.4593909">
           <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding>
-            <element signature="e#2871#2872#0" expanded="true" />
+            <element signature="e#2871#2872#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Amason/ReverseBit.java">
+    <entry file="file://$PROJECT_DIR$/src/AmasonGeekForGeek/ReverseBit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.1218274">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonGeekForGeek/FindPrimeNumbersInARange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9006772">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonGeekForGeek/MaximumMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.744921">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonGeekForGeek/CountTotalSetBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.5891647">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18518518">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="66" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonLeetcode/BestTimetoBuyandSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5530474">
+          <caret line="45" column="5" selection-start-line="41" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonLeetcode/BestTimetoBuyandSellStockII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4469526">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10609481">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="87" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeRightSideView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.880361">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeVerticalOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4537246">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9006772">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/CopyListwithRandomPointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5530474">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonLeetcode/CopyListwithRandomPointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1783295">
+          <caret line="19" column="27" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonLeetcode/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8013544">
+          <caret line="70" column="5" selection-start-line="53" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmasonLeetcode/LinkedList/AddTwoNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.4130926">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

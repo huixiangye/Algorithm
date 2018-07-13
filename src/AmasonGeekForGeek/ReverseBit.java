@@ -1,4 +1,4 @@
-package Amason;
+package AmasonGeekForGeek;
 
 import java.util.Scanner;
 
