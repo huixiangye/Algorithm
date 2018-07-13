@@ -5,36 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9498220c-6261-4661-8903-98add416362e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/CountTotalSetBits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/FindPrimeNumbersInARange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/MaximumMoney.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/AddTwoNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BestTimetoBuyandSellStock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BestTimetoBuyandSellStockII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeLevelOrderTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeRightSideView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/BinaryTreeVerticalOrderTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/CopyListWithRandomPointer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AmasonLeetcode/LinkedList/AddTwoNumber.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/MergeSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/QuickSort.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/others/AddTwoNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/AddTwoNumbersII.java" afterPath="$PROJECT_DIR$/src/others/AddTwoNumbersII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Amason/HowManyX.java" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/HowManyX.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Amason/ReverseBit.java" afterPath="$PROJECT_DIR$/src/AmasonGeekForGeek/ReverseBit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CopyListwithRandomPointer.java" afterPath="$PROJECT_DIR$/src/others/CopyListwithRandomPointer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Fibonacci.java" afterPath="$PROJECT_DIR$/src/others/Fibonacci.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LinkedListCycle1.java" afterPath="$PROJECT_DIR$/src/others/LinkedListCycle1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MergeSort.java" afterPath="$PROJECT_DIR$/src/others/MergeSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MergeTwoSortedLists.java" afterPath="$PROJECT_DIR$/src/others/MergeTwoSortedLists.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/QuickSort.java" afterPath="$PROJECT_DIR$/src/others/QuickSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/RemoveNthNodeFromEndofList.java" afterPath="$PROJECT_DIR$/src/others/RemoveNthNodeFromEndofList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ReverseLinkedListII.java" afterPath="$PROJECT_DIR$/src/others/ReverseLinkedListII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SelectionSort.java" afterPath="$PROJECT_DIR$/src/others/SelectionSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/SortList.java" afterPath="$PROJECT_DIR$/src/others/SortList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TwoStacksSort.java" afterPath="$PROJECT_DIR$/src/others/TwoStacksSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/a_pow_b.java" afterPath="$PROJECT_DIR$/src/others/a_pow_b.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/reverseLinkedList.java" afterPath="$PROJECT_DIR$/src/others/reverseLinkedList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Algorithm.iws" />
@@ -846,7 +816,7 @@
       <workItem from="1530253624558" duration="2248000" />
       <workItem from="1530294711990" duration="183000" />
       <workItem from="1530383817889" duration="68000" />
-      <workItem from="1530580736363" duration="32358000" />
+      <workItem from="1530580736363" duration="32529000" />
     </task>
     <task id="LOCAL-00001" summary="fibonacci">
       <created>1530223616747</created>
@@ -860,11 +830,17 @@
       <option name="project" value="LOCAL" />
       <updated>1531224858646</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="amazon">
+      <created>1531518171753</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531518171754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37172000" />
+    <option name="totallyTimeSpent" value="37343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -886,7 +862,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.50647247" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.4935275" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.4935275" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -918,7 +894,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fibonacci" />
     <MESSAGE value="amson tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="amson tag" />
+    <MESSAGE value="amazon" />
+    <option name="LAST_COMMIT_MESSAGE" value="amazon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
