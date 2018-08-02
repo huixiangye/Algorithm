@@ -1,4 +1,5 @@
-package others;
+package AmasonLeetcode.OA2CODING;
+
 
 /**
  * Created by yehuixiang on 7/3/18.
@@ -13,6 +14,16 @@ Input: 1->2->4, 1->3->4
 Output: 1->1->2->3->4->4
 
      */
+class ListNode{
+    int val;
+    ListNode next = null;
+
+    ListNode(int val){
+        this.val = val;
+    }
+}
+
+
 public class MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1==null && l2==null){

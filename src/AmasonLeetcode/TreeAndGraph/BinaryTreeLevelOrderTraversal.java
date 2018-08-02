@@ -8,12 +8,6 @@ import java.util.Queue;
 /**
  * Created by yehuixiang on 7/16/18.
  */
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
-}
 
 public class BinaryTreeLevelOrderTraversal {
     public List<List<Integer>> levelOrder(TreeNode root) {
