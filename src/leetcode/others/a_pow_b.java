@@ -1,4 +1,4 @@
-package others;
+package leetcode.others;
 
 /**
  * Created by yehuixiang on 6/29/18.

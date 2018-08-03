@@ -1,4 +1,4 @@
-package others;
+package leetcode.others;
 
 import java.util.ArrayList;
 import java.util.Stack;
