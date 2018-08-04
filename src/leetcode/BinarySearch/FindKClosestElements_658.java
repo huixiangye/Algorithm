@@ -26,7 +26,7 @@ import java.util.List;
          于是就分了三种情况。注意的点就是binary search是要返回的与x最相近的那个值可能是x本身
  如果找的到的话。
  */
-public class FindKClosestElements658 {
+public class FindKClosestElements_658 {
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
         List<Integer> res = new ArrayList<>();
         //the corner case
@@ -92,7 +92,7 @@ public class FindKClosestElements658 {
     }
 
     public static void main(String[] args){
-        FindKClosestElements658 findKClosestElements658 = new FindKClosestElements658();
+        FindKClosestElements_658 findKClosestElements658 = new FindKClosestElements_658();
         int[] case1 = new int[]{1,2,3,4,5};
         System.out.println(findKClosestElements658.findClosestElements(case1,4,3));
 
