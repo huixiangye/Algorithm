@@ -81,7 +81,7 @@ public class IntersectionofTwoLinkedLists_160 {
         headB.next = new ListNode(3);
         headB.next.next = headA.next.next.next;
         headB.next.next.next = headA.next.next.next.next;
-        
+
         ListNode res = IntersectionofTwoLinkedLists_160.getIntersectionNode(headA,headB);
         System.out.println("the intersectionNode value is: "+ res.val);
     }
