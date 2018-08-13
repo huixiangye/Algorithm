@@ -1,55 +1,59 @@
-package leetcode.LinkedList.Cycle问题;
+package leetcode.LinkedList.Cycle_list;
 
 import leetcode.LinkedList.ListNode;
 
 /**
  * Created by yehuixiang on 8/4/18.
- * Given a linked list, determine if it has a cycle in it.
+ * Given a linked list, return the node where the cycle begins.
+ * If there is no cycle, return null.
+
+ Note: Do not modify the linked list.
 
  Follow up:
  Can you solve it without using extra space?
-
-
  */
-public class LinkedListCycle_1_141 {
-    public static boolean hasCycle(ListNode head) {
-        //the corner case the list is null or the list just has one element
+
+//这题没什么好说的,涉及到一个数学问题,背一下就行了。思路就是先找环,然后再找那个点。
+public class LinkedListCycle_II_142 {
+    public static ListNode detectCycle(ListNode head) {
         if(head == null || head.next == null){
-            return false;
+            return null;
         }
-        //two pointers for the loop
+
         ListNode fast = head.next;
         ListNode slow = head;
-
-        //if there is a cycle, the fast and the slow will meet in some where
-        while(slow != fast){
-            //if there is not a cycle, the  fast or fast.next will be null
-            //so return false;
+        //find the cycle first
+        while(fast != slow){
             if(fast == null || fast.next == null){
-                return false;
+                return null;
             }
-            //move the pointers
+
             slow = slow.next;
             fast = fast.next.next;
         }
-        //if fast meet slow,means there is a cycle.
-        return true;
-    }
 
-    public static void main(String[] args){
+        //find the node
+        while(head != slow.next){
+            head = head.next;
+            slow = slow.next;
+        }
+
+        return head;
+    }
+    public static void main(String[] args) {
         //there is a cycle
         ListNode head = new ListNode(1);
         head.next = new ListNode(2);
         head.next.next = new ListNode(3);
         head.next.next.next = head;
         System.out.println("this list has a cycle shuold return true");
-        System.out.println(LinkedListCycle_1_141.hasCycle(head));
+        System.out.println(LinkedListCycle_II_142.detectCycle(head).val);
 
         //there is no cycle
         ListNode head1 = new ListNode(1);
         head1.next = new ListNode(2);
         head1.next.next = new ListNode(3);
         System.out.println("this list has no cycle shuold return false");
-        System.out.println(LinkedListCycle_1_141.hasCycle(head1));
+        System.out.println(LinkedListCycle_II_142.detectCycle(head1));
     }
 }

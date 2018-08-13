@@ -1,4 +1,4 @@
-package leetcode.LinkedList.Cycle问题;
+package leetcode.LinkedList.Cycle_list;
 
 import leetcode.LinkedList.ListNode;
 
