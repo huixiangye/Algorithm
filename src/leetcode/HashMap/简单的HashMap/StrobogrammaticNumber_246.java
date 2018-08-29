@@ -1,6 +1,4 @@
-package leetcode.HashMap;
-
-import javaClasses.class2.ChangeTest;
+package leetcode.HashMap.简单的HashMap;
 
 import java.util.HashMap;
 
