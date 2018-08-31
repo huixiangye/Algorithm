@@ -1,0 +1,61 @@
+package leetcode.HashMap.基于HashMap的各种系统设计;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Random;
+
+/**
+ * Created by yehuixiang on 8/30/18.
+ * [负载均衡器]()
+
+ ```
+ Implement a load balancer for web servers. It provide the following functionality:
+
+ 1. Add a new server to the cluster => add(server_id).
+ 2. Remove a bad server from the cluster => remove(server_id).
+ 3. Pick a server in the cluster randomly with equal probability => pick().
+ ```
+
+ ```java
+ */
+public class LintCode_LoadBalancer {
+    private HashMap<Integer, Integer> map;
+    private ArrayList<Integer> list;
+    private Random rand;
+    public LintCode_LoadBalancer() {
+        this.map = new HashMap<Integer, Integer>();
+        this.list = new ArrayList<Integer>();
+        this.rand = new Random();
+    }
+
+    // @param server_id add a new server to the cluster
+    // @return void
+    public void add(int server_id) {
+        if(!map.containsKey(server_id)){
+            list.add(server_id);
+            map.put(server_id, list.size() - 1);
+        }
+    }
+
+    // @param server_id server_id remove a bad server from the cluster
+    // @return void
+    public void remove(int server_id) {
+        if(map.containsKey(server_id)){
+            int removeIdx = map.get(server_id);
+            map.remove(server_id);
+            int affectedServerId = list.get(list.size() - 1);
+            map.put(affectedServerId, removeIdx);
+            list.set(removeIdx, affectedServerId);
+            list.remove(list.size() - 1);
+        }
+    }
+
+    // @return pick a server in the cluster randomly with equal probability
+    public int pick() {
+        if(list.size() == 0){
+            return -1;
+        }
+        int rand_idx = rand.nextInt(list.size());
+        return list.get(rand_idx);
+    }
+}
