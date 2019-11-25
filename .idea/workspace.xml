@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9498220c-6261-4661-8903-98add416362e" name="Default" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Tree/N_aryTreeLevelOrderTraversal_429.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/HashMap/Map_EntrySet/HashMapSortByKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/HashMap/Map_EntrySet/HashMapSortByValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Algorithm.iws" />
@@ -33,13 +34,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1326" />
+          <entry key="JAVA" value="1814" />
         </counts>
       </usages-collector>
     </session>
@@ -50,12 +51,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Tree/N_aryTreeLevelOrderTraversal_429.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/HashMap/Map_EntrySet/HashMapSortByKey.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+            <state relative-caret-position="627">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#162#178#0" expanded="true" />
+                <element signature="e#274#492#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,8 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/HashMap/FindDuplicateFileinSystem_609.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/HashMap/fourSumII_454.java" />
         <option value="$PROJECT_DIR$/src/leetcode/HashMap/简单的HashMap/LoggerRateLimiter_359.java" />
         <option value="$PROJECT_DIR$/src/leetcode/HashMap/HashMap的值是list的情况/DegreeOfAnArray_697.java" />
         <option value="$PROJECT_DIR$/src/leetcode/HashMap/HashMap的配对问题/PalindromePermutation_266.java" />
@@ -142,6 +143,8 @@
         <option value="$PROJECT_DIR$/src/AmasonLeetcode/CopyListWithRandomPointer.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Tree/BinaryTreeZigzagLevelOrderTraversal_103.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Tree/N_aryTreeLevelOrderTraversal_429.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/HashMap/Map_EntrySet/HashMapSortByValue.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/HashMap/Map_EntrySet/HashMapSortByKey.java" />
       </list>
     </option>
   </component>
@@ -191,23 +194,15 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeLevelOrderTraversal_102.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="N_aryTreeLevelOrderTraversal_429.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
+              <item name="Map_EntrySet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,7 +216,7 @@
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574090021867" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574692862683" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -256,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.N_aryTreeLevelOrderTraversal_429">
+  <component name="RunManager" selected="Application.HashMapSortByKey">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -371,34 +366,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="俄罗斯方块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="网易OA真题.俄罗斯方块" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="网易OA真题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinaryTreeLevelOrderTraversal_102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Tree.BinaryTreeLevelOrderTraversal_102" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BinaryTreeZigzagLevelOrderTraversal_103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.Tree.BinaryTreeZigzagLevelOrderTraversal_103" />
       <module name="Algorithm" />
@@ -420,6 +387,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapSortByKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.HashMap.Map_EntrySet.HashMapSortByKey" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.HashMap.Map_EntrySet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapSortByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.HashMap.Map_EntrySet.HashMapSortByValue" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.HashMap.Map_EntrySet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -590,19 +585,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.俄罗斯方块" />
-      <item itemvalue="Application.BinaryTreeLevelOrderTraversal_102" />
       <item itemvalue="Application.CopyListwithRandomPointer" />
       <item itemvalue="Application.BinaryTreeZigzagLevelOrderTraversal_103" />
       <item itemvalue="Application.N_aryTreeLevelOrderTraversal_429" />
+      <item itemvalue="Application.HashMapSortByValue" />
+      <item itemvalue="Application.HashMapSortByKey" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapSortByKey" />
+        <item itemvalue="Application.HashMapSortByValue" />
         <item itemvalue="Application.N_aryTreeLevelOrderTraversal_429" />
         <item itemvalue="Application.BinaryTreeZigzagLevelOrderTraversal_103" />
         <item itemvalue="Application.CopyListwithRandomPointer" />
-        <item itemvalue="Application.BinaryTreeLevelOrderTraversal_102" />
-        <item itemvalue="Application.俄罗斯方块" />
       </list>
     </recent_temporary>
   </component>
@@ -629,7 +624,7 @@
       <workItem from="1532834073007" duration="1991000" />
       <workItem from="1533226984472" duration="63577000" />
       <workItem from="1573956010913" duration="2171000" />
-      <workItem from="1574082827897" duration="6040000" />
+      <workItem from="1574082827897" duration="7717000" />
     </task>
     <task id="LOCAL-00001" summary="fibonacci">
       <created>1530223616747</created>
@@ -785,11 +780,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574087165142</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="leetcode">
+      <created>1574091934358</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1574091934358</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165764000" />
+    <option name="totallyTimeSpent" value="167441000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -804,7 +806,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25040388" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25040388" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -834,7 +836,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25040388" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25040388" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -843,7 +845,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32739726" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4935275" visible="true" weight="0.33893558" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4935275" visible="true" weight="0.25210086" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1000,34 +1002,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/HashMap/简单的HashMap/fourSumII_454.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/HashMap/简单的HashMap/LoggerRateLimiter_359.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/HashMap/HashSet/IntersectionofTwoArrays_349.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/HashMap/HashSet/LongestPalindrome_409.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/HashMap/HashSet/DistributeCandies_575.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1359,12 +1333,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaClasses/多线程/JoinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1241">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Tree/N_aryTreeLevelOrderTraversal_429.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="373">
           <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="146" column="31" selection-start-line="146" selection-start-column="31" selection-end-line="146" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/HashMap/Map_EntrySet/HashMapSortByValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#431#459#0" expanded="true" />
+            <element signature="e#428#659#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/HashMap/Map_EntrySet/HashMapSortByKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#162#178#0" expanded="true" />
+            <element signature="e#274#492#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
           </folding>
         </state>
       </provider>
